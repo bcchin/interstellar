@@ -7,3 +7,4 @@ Using arrow keys, the player navigates a rocket ship through outer space, collec
 * Utilized Key Events to create an interactive, multilevel game where user controls player icon
 * Implemented horizontal functionality by using a two-dimensional array
 * Illustrated game screen images and icons using Procreate 
+#### Created in Spring 2019
